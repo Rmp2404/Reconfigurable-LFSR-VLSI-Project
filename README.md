@@ -71,7 +71,7 @@ GETTING STARTED
 
 >>**Installation**
 -Clone this repository:
- git clone https://github.com/yourusername/reconfigurable-lfsr.git
+ git clone https://github.com/Rmp2404/reconfigurable-lfsr.git
  
 -Open the project in AMD Xilinx Vivado.
 
