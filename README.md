@@ -19,7 +19,7 @@ TABLE OF CONTENTS
 
 PROJECT OVERVIEW
 ----------------
-This project focuses on designing a reconfigurable Linear Feedback Shift Register (LFSR) for use in VLSI IC testing. The LFSR design is implemented for both ASIC and FPGA environments, allowing for flexible pseudo-random sequence generation, which is essential in testing and validation of digital circuits. The project combines a basic LFSR and a configurable LFSR within a top-level module, providing the flexibility to switch between fixed and configurable sequences.
+This project focuses on designing a reconfigurable Linear Feedback Shift Register (LFSR) for use in VLSI IC testing. The LFSR design is implemented for the FPGA environment, allowing for flexible pseudo-random sequence generation, which is essential in testing and validation of digital circuits. The project combines a basic LFSR and a configurable LFSR within a top-level module, providing the flexibility to switch between fixed and configurable sequences.
 
 PROJECT STRUCTURE
 -----------------
