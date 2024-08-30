@@ -6,7 +6,7 @@
 // Create Date: 29.08.2024 16:41:40
 // Design Name: 
 // Module Name: lfsr_top
-// Project Name: 
+// Project Name: LFSR
 // Target Devices: 
 // Tool Versions: 
 // Description: 
